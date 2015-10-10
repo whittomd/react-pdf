@@ -1,4 +1,4 @@
-react-pdf
+react-pdf (upgraded to use React 0.14.0)
 =========
 
 What
