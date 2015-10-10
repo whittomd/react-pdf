@@ -9,8 +9,6 @@ A component for showing a pdf page using [pdf.js](http://mozilla.github.io/pdf.j
 Usage
 -----
 
-Install with `npm install react-pdf`
-
 Use in your app:
 
 ```js
@@ -59,7 +57,7 @@ License
 
 The MIT License
 
-Author
+Original Author (forked from https://github.com/nnarhinen/react-pdf)
 ------
 
 Niklas Närhinen <niklas@narhinen.net>
